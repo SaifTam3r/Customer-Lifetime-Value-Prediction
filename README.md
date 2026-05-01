@@ -1,5 +1,6 @@
-# -Customer-Lifetime-Value-Prediction
+# Customer-Lifetime-Value-Prediction
 a full pipeline for predicting Customer Lifetime Value (CLV) using real-world e-commerce data (Online Retail Dataset)
+
 🔹 Data Cleaning & Preprocessing — handled missing values, removed cancelled orders, capped outliers using IQR, and engineered a clean dataset ready for modeling.
 
 
